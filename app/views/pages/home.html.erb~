@@ -1,4 +1,3 @@
-<!--
 <!Doctype html>
 <html>
   <head>
@@ -9,8 +8,9 @@
     <p>Find me in app/views/pages/<%= @title %>.html.erb</p>
   
   </body>
-</html>-->
+</html>
 
 
- <h1>Contact</h1>
-    <p>Some text about Contact</p>
+
+ <h1>Sample App</h1>
+    <p>Some about our Rails 3 Tutorial</p>

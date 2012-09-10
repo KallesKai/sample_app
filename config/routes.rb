@@ -4,6 +4,8 @@ SampleApp::Application.routes.draw do
   get "pages/contact"
   
   get "pages/about"
+  
+  get "pages/help"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
@@ -17,7 +19,7 @@ SampleApp::Application.routes.draw do
   # This route can be invoked with purchase_url(:id => product.id)
 
   # Sample resource route (maps HTTP verbs to controller actions automatically):
-  #   resources :products
+  #   resources :productsAbout us
 
   # Sample resource route with options:
   #   resources :products do
